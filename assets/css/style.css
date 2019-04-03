@@ -1,0 +1,14 @@
+#skull-box{
+    border: 5px solid black;
+    margin: 20px;
+}
+#skull-box img{
+    width: 100 px;
+    height: 150 px;
+    margin: 0, 20px;
+
+}
+.score-box{
+    border: 5px solid black;
+    margin: 20px;
+}
