@@ -1,13 +1,14 @@
-#skull-box{
-    border: 5px solid black;
-    margin: 20px;
+body{
+    background-image: url(http://vozrojdenie.me/wp-content/uploads/calendario-azteca-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    width: 75%;
+    
 }
-#skull-box img{
-    width: 100 px;
-    height: 150 px;
-    margin: 0, 20px;
-
+.navbar{
+    align-content: center;
 }
-.row{
-    margin-left: 15px;
+.card{
+    background-color:black !important;
+    background: transparent !important;
 }
